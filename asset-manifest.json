@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/casualidadocausalidad/static/css/main.80fbd37c.css",
+    "main.js": "/casualidadocausalidad/static/js/main.9a212060.js",
+    "static/js/453.8c9cc13c.chunk.js": "/casualidadocausalidad/static/js/453.8c9cc13c.chunk.js",
+    "static/media/universocuantico.jpg": "/casualidadocausalidad/static/media/universocuantico.029375b3c32f8fcaa469.jpg",
+    "index.html": "/casualidadocausalidad/index.html",
+    "main.80fbd37c.css.map": "/casualidadocausalidad/static/css/main.80fbd37c.css.map",
+    "main.9a212060.js.map": "/casualidadocausalidad/static/js/main.9a212060.js.map",
+    "453.8c9cc13c.chunk.js.map": "/casualidadocausalidad/static/js/453.8c9cc13c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80fbd37c.css",
+    "static/js/main.9a212060.js"
+  ]
+}
